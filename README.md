@@ -1,4 +1,4 @@
-# Dio-github-challenge-1-repository
+# Dio-github-challenge-first-repository
 Repositorio criado para o desafio de projeto.
 
 ## links Úteis
